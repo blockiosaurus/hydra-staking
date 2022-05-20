@@ -1,2 +1,2 @@
 # hydra-staking
-An escrowless staking contract using hydra fanout
+An escrowless staking CLI using hydra fanout
